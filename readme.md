@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ashhal!
 
-🚀 **Sophomore | FAST-NUCES | Computer Science Enthusiast**
+🚀 **Junior | FAST-NUCES | Computer Science Enthusiast**
 
 Passionate about **Software Development** and continuously exploring the latest in technology. Currently diving deep into my Computer Science degree at FAST-NUCES, where I’m honing my skills and building a solid foundation for a dynamic career in tech.
 
