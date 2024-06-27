@@ -6,7 +6,7 @@ Passionate about **Software Development** and continuously exploring the latest 
 
 ## 🔧 **Skills**
 - **Programming Languages:** C, C++, Python
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Web Technologies:** HTML, CSS, Tailwind CSS, BootStrap, JavaScript
 - **Core Concepts:** OOP, DSA
 
 ## 🌱 **Career Aspirations**
