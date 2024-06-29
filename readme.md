@@ -15,4 +15,4 @@ Eager to grow through hands-on experience, I’m actively seeking **internships*
 ## 💡 **Let’s Connect!**
 I'm excited to network with like-minded professionals and explore opportunities that drive innovation and personal growth. Let’s connect and see how we can collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-ashhal-hassan-434858247)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-ashhal)
