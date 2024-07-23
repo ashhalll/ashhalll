@@ -17,4 +17,4 @@ I'm excited to network with like-minded professionals and explore opportunities 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-ashhal)
 
-![Profile Views](https://profile-counter.glitch.me/ashhalll/count.svg)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
