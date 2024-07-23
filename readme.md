@@ -16,3 +16,5 @@ Eager to grow through hands-on experience, I’m actively seeking **internships*
 I'm excited to network with like-minded professionals and explore opportunities that drive innovation and personal growth. Let’s connect and see how we can collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-ashhal)
+
+![Profile Views](https://profile-counter.glitch.me/ashhalll/count.svg)
