@@ -25,7 +25,7 @@ Passionate about **Software Development** and continuously exploring the latest 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br clear="left" />
-
+<br>
 ## 🌱 **Career Aspirations**
 Eager to grow through hands-on experience, I’m actively seeking **internships** and **entry-level positions**. My goal is to contribute to cutting-edge projects, learn from industry experts, and make a meaningful impact in the tech world.
 
