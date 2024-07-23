@@ -17,4 +17,4 @@ I'm excited to network with like-minded professionals and explore opportunities 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syed-ashhal)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashhalll&count_bg=%235DA1D8&title_bg=%23FF9E9E&icon=github.svg&icon_color=%23000000&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fashhalll&count_bg=%235DA1D8&title_bg=%23221C67&icon=github.svg&icon_color=%23FFFFFF&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
