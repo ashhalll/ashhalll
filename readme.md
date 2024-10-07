@@ -5,9 +5,9 @@
 Passionate about **Software Development** and continuously exploring the latest in technology. Currently diving deep into my Computer Science degree at FAST-NUCES, where I’m honing my skills and building a solid foundation for a dynamic career in tech.
 
 ## 🔧 **Languages & Skills**
-- **Programming Languages:** C, C++, Python (matplotlib, numpy, scipy, tkinter)
-- **Web Technologies:** HTML, CSS, Tailwind CSS, BootStrap, JavaScript
-- **Core Concepts:** OOP, DSA
+- **Programming Languages:** C, C++, Python, Java, JavaScript
+- **Web Technologies:** HTML, CSS, Tailwind CSS, BootStrap, React.js, Express.js, Next.js 
+- **Core Concepts:** OOP, DSA, DBMS, SQL ( MySQL & PostGreSQL )
 
 ## **Tools**
 
