@@ -7,7 +7,7 @@ Passionate about **Software Development** and continuously exploring the latest 
 ## 🔧 **Languages & Skills**
 - **Programming Languages:** C, C++, Python, Java, JavaScript
 - **Web Technologies:** HTML, CSS, Tailwind CSS, BootStrap, React.js, Express.js, Next.js 
-- **Core Concepts:** OOP, DSA, DBMS, SQL ( MySQL & PostgreSQL )
+- **Core Concepts:** OOP, DSA, SQL ( MySQL & PostgreSQL )
 
 ## **Tools**
 
