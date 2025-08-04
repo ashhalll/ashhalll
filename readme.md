@@ -4,9 +4,12 @@
 
 **Senior | Computer Science | FAST-NUCES**
 
-I'm a passionate software engineer pursuing my Computer Science degree at **FAST-NUCES** with over a year of hands-on experience in modern web and mobile development. I specialize in building scalable applications using cutting-edge technologies and have a strong foundation in both frontend and backend development.
+I'm a software engineer specializing in **distributed systems** and **full-stack architecture**, currently advancing my Computer Science degree at **FAST-NUCES**. With over a year of production experience, I focus on building **high-performance applications** with **microservices architecture**, implementing **CI/CD pipelines**, and integrating **AI/ML models** into scalable systems.
 
-Currently working on enterprise-level projects including field tracking systems, e-commerce platforms, and mobile applications. I thrive in collaborative environments and enjoy solving complex technical challenges.
+My expertise spans **cross-platform mobile development**, **cloud-native applications**, and **real-time data processing systems**. I have hands-on experience with **containerization (Docker)**, **cloud infrastructure (AWS)**, and **API design patterns**. Currently architecting enterprise solutions that handle **concurrent user sessions**, **real-time synchronization**, and **intelligent data analytics**.
+
+I'm passionate about **software engineering principles**, **design patterns**, **system optimization**, and emerging technologies like **Large Language Models** and **Speech-to-Text processing**. My approach combines **theoretical computer science fundamentals** with **practical software engineering** to deliver robust, maintainable solutions.
+
 
 <div align="center">
 
