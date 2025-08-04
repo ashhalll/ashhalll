@@ -122,7 +122,7 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 </div>
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 🎓 **Bachelor of Computer Science** - FAST-NUCES (Senior Year)
 - Focus: Software Engineering & Database Systems
