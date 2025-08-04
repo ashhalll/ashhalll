@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Ashhal!
 
-<div align="center">
 ## 🚀 About Me
 
-  **Senior | Computer Science | FAST-NUCES**
-</div>
+> **Senior | Computer Science | FAST-NUCES**
 
 I'm a passionate software engineer pursuing my Computer Science degree at **FAST-NUCES** with over a year of hands-on experience in modern web and mobile development. I specialize in building scalable applications using cutting-edge technologies and have a strong foundation in both frontend and backend development.
 
