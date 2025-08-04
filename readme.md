@@ -89,12 +89,12 @@ I'm passionate about **software engineering principles**, **design patterns**, *
 <div align="left">
 
 ```yaml
-Programming Languages: JavaScript, TypeScript, C#, Dart
+Programming Languages: C, C++, JavaScript, TypeScript, C#, Dart, Python
 Frontend Frameworks: React, Next.js, React Native, Flutter
-Backend Technologies: Node.js, Express.js, ASP.NET Core
+Backend Technologies: Node.js, Express.js, ASP.NET Core, Next.js
 Cloud Platforms: AWS, Vercel, Docker
 AI/ML Technologies: OpenAI GPT, Whisper STT, NLP, Chatbot Development
-Database Systems: MySQL, PostgreSQL, MongoDB
+Database Systems: MySQL, PostgreSQL, MongoDB, SQL Server, Oracle
 Development Practices: OOP, RESTful APIs, Microservices, Agile
 ```
 
