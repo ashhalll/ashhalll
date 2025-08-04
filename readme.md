@@ -129,27 +129,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 </div>
 
-## 🏆 Professional Highlights
-
-<div align="center">
-
-![Achievement](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=1%2B+Years+Professional+Experience;Expert+in+Modern+Tech+Stack;AI+%26+ML+Enthusiast;Cloud+Architecture+Specialist)
-
-</div>
-
-<div align="left">
-
-🚀 **1+ Years** of professional development experience
-💼 **15+** Full-stack projects completed
-📱 **5+** Mobile applications deployed
-🤖 **AI Integration** in multiple production systems
-☁️ **Cloud Deployment** expertise with AWS & Vercel
-🔧 **DevOps** skills with Docker containerization
-💡 **Problem-solving** and advanced debugging capabilities
-🤝 **Team Leadership** and excellent communication skills
-
-</div>
-
 ## 🎓 Education & Certifications
 
 🎓 **Bachelor of Computer Science** - FAST-NUCES (Senior Year)
