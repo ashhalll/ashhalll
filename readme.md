@@ -1,13 +1,10 @@
 # 👋 Hello, I'm Ashhal!
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=ashhalll&color=00D4FF&style=for-the-badge)
-
-</div>
-
 ## 🚀 About Me
 
-> **Senior | Computer Science | FAST-NUCES**
+  **Senior | Computer Science | FAST-NUCES**
+</div>
 
 I'm a passionate software engineer pursuing my Computer Science degree at **FAST-NUCES** with over a year of hands-on experience in modern web and mobile development. I specialize in building scalable applications using cutting-edge technologies and have a strong foundation in both frontend and backend development.
 
