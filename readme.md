@@ -152,8 +152,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 <div align="center">
 
-## 🤝 Let's Build Something Amazing Together!
-
 ![Connect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+Collaborate%3F;Let's+Create+Innovation!)
 
 I'm always excited to collaborate on innovative projects and discuss new opportunities. Whether you're looking for a skilled developer for your team or want to brainstorm the next big idea, let's connect!
