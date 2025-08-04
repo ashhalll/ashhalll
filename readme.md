@@ -174,8 +174,4 @@ I'm always excited to collaborate on innovative projects and discuss new opportu
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
 
-⭐ **"Innovation distinguishes between a leader and a follower"** ⭐
-
-![Visitor Count](https://profile-counter.glitch.me/ashhalll/count.svg)
-
 </div>
