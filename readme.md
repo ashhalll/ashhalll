@@ -145,10 +145,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 <div align="center">
 
-![Connect](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+Collaborate%3F;Let's+Create+Innovation!)
-
-I'm always excited to collaborate on innovative projects and discuss new opportunities. Whether you're looking for a skilled developer for your team or want to brainstorm the next big idea, let's connect!
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ashhal)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
