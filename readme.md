@@ -4,7 +4,7 @@
 
 **Senior | Computer Science | FAST-NUCES**
 
-I'm a software engineer specializing in **distributed systems** and **full-stack architecture**, currently advancing my Computer Science degree at **FAST-NUCES**. With over a year of production experience, I focus on building **high-performance applications** with **microservices architecture**, implementing **CI/CD pipelines**, and integrating **AI/ML models** into scalable systems.
+I'm a software engineer specializing in **distributed systems** and **full-stack architecture**, currently advancing my Computer Science degree at **FAST-NUCES**. With over a year of production experience, I focus on building **high-performance applications** with **microservices architecture** that process real-time data streams at scale.
 
 My expertise spans **cross-platform mobile development**, **cloud-native applications**, and **real-time data processing systems**. I have hands-on experience with **containerization (Docker)**, **cloud infrastructure (AWS)**, and **API design patterns**. Currently architecting enterprise solutions that handle **concurrent user sessions**, **real-time synchronization**, and **intelligent data analytics**.
 
