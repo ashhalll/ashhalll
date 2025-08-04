@@ -145,7 +145,7 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashhalh33@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashhalh33@gmail.com?subject=Hello%20Ashhal!&body=Hi%20Ashhal,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ashhal)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_ashhaall)
 
