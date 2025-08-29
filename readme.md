@@ -15,7 +15,7 @@ I'm passionate about **software engineering principles**, **design patterns**, *
 
 ## 💻 Tech Stack & Expertise
 
-![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI+%7C+Cloud+%7C+DevOps;Building+Scalable+%26+Innovative+Solutions)
+![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI+%7C+Cloud+%7C+DevOps)
 
 </div>
 
