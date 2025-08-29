@@ -130,12 +130,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 ## 🎯 Current Focus & Interests
 
-<div align="center">
-
-![Focus](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=9146FF&center=true&vCenter=true&width=700&lines=Building+Next-Gen+AI+Applications;Exploring+Cloud-Native+Architecture;Creating+Seamless+User+Experiences)
-
-</div>
-
 - 🔭 **Current Projects:** Enterprise AI-powered applications and mobile solutions
 - 🌱 **Learning:** Advanced AWS services, Kubernetes, and AI/ML model integration
 - 🤖 **AI Focus:** Developing intelligent chatbots and voice-enabled applications
