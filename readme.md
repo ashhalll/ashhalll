@@ -95,7 +95,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 </div>
 
