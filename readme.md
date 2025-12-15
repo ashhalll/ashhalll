@@ -3,10 +3,6 @@
 
 ## 💻 Tech Stack & Expertise
 
-![Tech Stack](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Frontend+%7C+Backend+%7C+Mobile+%7C+AI+%7C+Cloud+%7C+DevOps)
-
-</div>
-
 ### 🎨 **Frontend Development**
 <div align="left">
 
@@ -87,19 +83,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 ```
 
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-![Ashhal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashhalll&theme=tokyo-night&hide_border=true&area=true)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashhalll&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashhalll&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashhalll&theme=tokyonight&hide_border=true)
 
 </div>
 <div align="center">
