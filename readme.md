@@ -109,22 +109,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashhalll&theme=tokyonight&hide_border=true)
 
 </div>
-
-## 🎓 Education
-
-🎓 **Bachelor of Computer Science** - FAST-NUCES (Senior Year)
-- Focus: Software Engineering & Database Systems
-- Relevant Coursework: Advanced Algorithms, Software Architecture, Database Design
-
-## 🎯 Current Focus & Interests
-
-- 🔭 **Current Projects:** Enterprise AI-powered applications and mobile solutions
-- 🌱 **Learning:** Advanced AWS services, Kubernetes, and AI/ML model integration
-- 🤖 **AI Focus:** Developing intelligent chatbots and voice-enabled applications
-- 👯 **Collaboration:** Open to innovative projects and technical partnerships
-- 💬 **Ask me about:** React Native, AI integration, cloud architecture, or full-stack development
-- ⚡ **Fun fact:** I build AI chatbots that can understand multiple languages!
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-ashhal)
