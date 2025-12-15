@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ashhal!
-<div align="center">
+<div align="left">
 
 ## 💻 Tech Stack & Expertise
 
