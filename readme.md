@@ -88,13 +88,6 @@ Development Practices: OOP, RESTful APIs, Microservices, Agile
 
 </div>
 
-### 🌟 **Specializations**
-- 🔥 **Full-Stack Development** - End-to-end application development
-- 📱 **Cross-Platform Mobile** - React Native & Flutter expertise
-- 🤖 **AI Integration** - LLMs, Chatbots, Speech-to-Text solutions
-- ☁️ **Cloud Architecture** - Scalable deployment and DevOps
-- 🎨 **Modern UI/UX** - Responsive and intuitive interfaces
-
 ## 📊 GitHub Analytics
 
 <div align="center">
